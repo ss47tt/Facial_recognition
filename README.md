@@ -14,9 +14,9 @@ How to use the facial recognition python file?
 
 6. When the program runs, the following paths will be created:
    
-   Data/Output/Frame/Known_Faces            (for recognized faces from database)
+   Data/Output/Frame/Known_Faces            (images captured from computer camera for recognized faces from database)
    
-   Data/Output/Frame/Unknown_Faces          (for unknown faces not in database)
+   Data/Output/Frame/Unknown_Faces          (images captured from computer camera for unknown faces not in database)
 
    Data/Output/JSON                         (json information)
 
